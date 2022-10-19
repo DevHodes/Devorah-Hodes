@@ -1,0 +1,5 @@
+runs:
+  using: 'node16'
+  main: 'main.js'
+
+Node.js 16: actions/checkout, actions/checkout
