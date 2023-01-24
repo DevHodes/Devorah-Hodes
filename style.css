@@ -310,7 +310,7 @@ main {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  background-image: url(images/landing img..jpg);
+  background-image: url(images/landing\ img..jpg);
   background-size: cover;
   background-repeat: no-repeat;
   flex-grow: 0;
